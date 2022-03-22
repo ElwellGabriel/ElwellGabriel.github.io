@@ -1,41 +1,98 @@
 body {
-  font-family: DangerMode, Calibri, Arial;
-  background-image: linear-gradient(#3366cc, #ccffff);
+    background-color: #DDDDDD;
+    font-family: consolas;
 }
+
+#gameBox {
+    margin-top: 55px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #AAAAAA;
+}
+#headerBox {
+
+}
+
+.logos {
+
+}
+
 h1 {
-  text-align: center;
-  font-family: Candara, Calibri, Arial;
-}
-#content {
-  margin: auto;
-  width: 500px;
-}
-.segment{
-  padding: 10px;
-  border: 3px solid #000000;
-  margin-bottom: 10px;
-  /* border-width: 1px;
-  border-color: #000000;
-  border-style: solid; */
-}
-/*  the following selector only selects imgs inside of the segment class */
-.segment img {
-  max-width: 300px;
-  margin-bottom: 5px;
+
 }
 
-.segment .leftimg{
-  margin-right: 10px;
-  float: left;
+#graphicsBox {
+    background-color: #DDDDDD;
 }
 
-.segment .rightimg{
-  margin-left: 10px;
-  float: right;
+.fighterIMG {
+
 }
 
-p {
-  margin-top: 0em;
+#barsBox {
+
+}
+
+.HPfill {
+    background-color: #33FF33;
+}
+
+.SPfill {
+    background-color: #3333FF;
+}
+
+.hpBar {
+    background-color: #AA6666;
+}
+
+.hpBar {
+    background-color: #AA6666;
+}
+.spBar {
+    background-color: #AA6666;
+}
+
+#controlsBox {
+
+}
+
+.inputs {
+
+}
+
+.inputPlayer0 {
+    color: #FF6666;
+}
+
+.inputPlayer1 {
+    color: #6666FF;
+}
+
+#outputBox {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.damageColor {
+    color: #FF6666;
+    text-shadow: 2px 2px 5px #FF0000;
+}
+
+.recoverColor {
+    color: #66FF66;
+}
+
+.healthColor {
+    color: #FFFF66;
+}
+
+.specialColor {
+    color: #6666FF;
+}
+
+.abilityColor {
+    color: #FF66FF;
+    text-shadow: 2px 2px 5px #FF00FF;
 }
 
 /* Add a black background color to the top navigation */
@@ -94,4 +151,4 @@ p {
    display: block;
    text-align: left;
  }
-} 
+}

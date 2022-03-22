@@ -7,7 +7,7 @@ null,
 {"id":5,"expanded":true,"name":"boulderpass","order":3,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":6,"expanded":false,"name":"DebugRoom","order":5,"parentId":0,"scrollX":1638,"scrollY":945},
 {"id":7,"expanded":true,"name":"Atown","order":7,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1272.6666666666667},
-{"id":8,"expanded":false,"name":"Init","order":11,"parentId":0,"scrollX":655.2,"scrollY":378},
+{"id":8,"expanded":false,"name":"Init","order":11,"parentId":0,"scrollX":655.2,"scrollY":368.8},
 {"id":9,"expanded":false,"name":"Weapons","order":8,"parentId":7,"scrollX":1638,"scrollY":945},
 {"id":10,"expanded":false,"name":"Inn","order":9,"parentId":7,"scrollX":1638,"scrollY":945},
 {"id":11,"expanded":false,"name":"Jail","order":10,"parentId":7,"scrollX":832,"scrollY":640}
